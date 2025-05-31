@@ -11,7 +11,7 @@ The program must be run with the make file. In the same folder it has to be the 
 > 
 > ./part_trans_to_root2_multiple
 
-**NOTE:** In this case root and fastjet must be Linked in the PATH. For this version the program was made with the versions of root 6.32.08 and fastjet 3.4.3.
+**NOTE:** In this case root and fastjet must be Linked in the PATH. For this version the program was made with the versions of root 6.32.08 and fastjet 3.4.3. **Fastjet could be linked in the first line of the Makefile**.
 
 ## The Model
 
